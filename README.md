@@ -57,6 +57,12 @@ python cartpole/cartpole_ppo_infer.py --episodes 5
 
 ## Demo Video
 
-<video src="https://github.com/deviharshd/cartpole-ppo-starter/raw/main/videos/cartpole/cartpole_ppo-episode-0.mp4" controls width="480">
-  Your browser does not support the video tag.
-</video>
+GitHub does not render `<video>` tags inside README files, so the embedded
+player will not show up directly here. Instead, click the link (or image)
+below to open the video on GitHub:
+
+- [▶️ Watch CartPole PPO video](https://github.com/deviharshd/cartpole-ppo-starter/blob/main/videos/cartpole/cartpole_ppo-episode-0.mp4)
+
+Or click the training curve thumbnail to open the same video:
+
+[![CartPole PPO video](images/cartpole_graph.png)](https://github.com/deviharshd/cartpole-ppo-starter/blob/main/videos/cartpole/cartpole_ppo-episode-0.mp4)
