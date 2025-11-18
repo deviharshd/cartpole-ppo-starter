@@ -55,3 +55,8 @@ Visualize the trained agent:
 python cartpole/cartpole_ppo_infer.py --episodes 5
 ```
 
+## Demo Video
+
+<video src="https://github.com/deviharshd/cartpole-ppo-starter/raw/main/videos/cartpole/cartpole_ppo-episode-0.mp4" controls width="480">
+  Your browser does not support the video tag.
+</video>
